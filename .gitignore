@@ -1,3 +1,3 @@
-my_venv/
-datasets/
-.DS_Store
+**my_venv/
+project2/datasets/
+**.DS_Store
